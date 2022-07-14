@@ -1,5 +1,5 @@
 product:
-  property: Product Profile Dev updated
+  property: Product Profile Dev
 spring:
   data:
     mongodb:
