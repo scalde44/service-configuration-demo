@@ -1,2 +1,7 @@
 booking:
-  property: Booking Profile Dev Updated
+  property: Booking Profile Dev
+spring:
+  data:
+    mongodb:
+      uri: ${MONGO_URI:mongodb://127.0.0.1:27017}
+      database: bookingdb
