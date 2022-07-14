@@ -1,2 +1,7 @@
 product:
   property: Product Profile Prod
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://scalde44:Scalderon4@clusterprueba.bzwwx.mongodb.net/?retryWrites=true&w=majority
+      database: productdb
